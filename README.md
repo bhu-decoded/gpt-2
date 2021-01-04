@@ -1,4 +1,6 @@
-**Status:** Archive (code is provided as-is, no updates expected)
+**Status:** HACK BY DECODED HEALTH TO EVALUATE SEQUENCE SELECTION
+
+NOTE: You will need to download the 774 model.  See GPT-2 documentation.
 
 # gpt-2
 
